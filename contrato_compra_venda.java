@@ -10,5 +10,6 @@ public class contrato_compra_venda extends contrato{
             return false;
         }
         return true;
+        
     }
 }
